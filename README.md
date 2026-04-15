@@ -35,7 +35,7 @@ An advanced, standalone IoT monitoring system built on the ESP32 microcontroller
 5. Compile and upload the code to the ESP32.
 
 ## 📂 Repository Structure
-* `Main_Code.ino` : Main source code for the ESP32 containing all sensor integrations, logging, and IoT logic.
+* `maincode.txt` : Main source code for the ESP32 containing all sensor integrations, logging, and IoT logic.
 * `Circuit_Schematic.fzz` : Fritzing wiring schematic.
 * `Gerber_Files_JLCPCB.zip` : Ready-to-print PCB production files.
 * `3D_Enclosure_Design.zip` : 3D models for the device casing.
